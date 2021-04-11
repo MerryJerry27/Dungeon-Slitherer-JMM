@@ -1,2 +1,5 @@
 # dungeon-slitherer
-Final project of Fall 2021 Schulich Ignite Flare. Created with python and pygame.
+
+Created by J. M. Mendoza
+
+Dungeon Slitherer is a puzzle-movement game, combining elements of strategy dungeon clearing, and tactical snake elements.
