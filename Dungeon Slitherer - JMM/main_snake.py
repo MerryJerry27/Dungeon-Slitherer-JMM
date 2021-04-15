@@ -30,7 +30,7 @@ screen.set_alpha(0)  # Make alpha bits transparent
 clock = pygame.time.Clock()
 
 # CAPTION / ICON SETUP
-icon = os.path.join("Dungeon Slitherer", "assets", "door.png")
+icon = os.path.join("Dungeon Slitherer - JMM", "assets", "door.png")
 icon = pygame.image.load(icon).convert_alpha()
 pygame.display.set_caption("Dungeon Slitherer - JMM")
 pygame.display.set_icon(icon)
