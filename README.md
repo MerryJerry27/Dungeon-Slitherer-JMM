@@ -5,6 +5,8 @@ Created by J. M. Mendoza
 Dungeon Slitherer is a puzzle-movement game, a strategy dungeon clearer, with snake elements incorporated in.
 Stay alive, don't get stuck, and get to the end to complete each level!
 
+"main_snake.py" is the file to run
+
 WASD to move, Left-Click to interact
 
 There are only 6 levels, with every 3-set focusing on a concept, being:
