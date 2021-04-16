@@ -7,6 +7,16 @@ Stay alive, don't get stuck, and get to the door to complete each level!
 
 "main_snake.py" is the file to run
 
+IMPORTANT
+---
+
+When exporting, make sure that the selected folder when opening is the actual folder that holds the code, not a folder that holds the main folder. The program doesn't work if you select another folder.
+
+With WinRAR, "Extract files..." often puts the main folder with the code into another folder, so remember to select the main folder instead of the folder that holds that main folder.
+
+General Info
+---
+
 WASD or Arrow Keys to move, Left-Click to interact
 
 There are only 6 levels, with every 3-set focusing on a concept, being:
