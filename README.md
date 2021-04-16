@@ -18,7 +18,7 @@ Extra Notes:
 
 Default move speed is every 0.1 seconds, default time invincible after taking damage is 2 seconds 
 Apples grow you by 1, Bananas grow you by 3, Skeletons shrink you by 1
-One Ways allow you to move in the directions indicated
+One-Ways allow you to move in the directions indicated
 Enemies move on their movement-trails
 
 A production tool of entity coord gatherer has been left in, which helped with the development.
