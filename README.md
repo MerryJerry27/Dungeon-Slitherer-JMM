@@ -2,7 +2,7 @@
 
 Created by J. M. Mendoza
 
-Dungeon Slitherer is a puzzle-movement game, a strategy dungeon clearer, with snake elements incorporated in.
+Dungeon Slitherer is a puzzle-movement game, with a focus in strategy dungeon-clearing combined with snake elements.
 Stay alive, don't get stuck, and get to the door to complete each level!
 
 "main_snake.py" is the file to run
