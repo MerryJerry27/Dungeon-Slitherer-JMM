@@ -27,4 +27,4 @@ One-Ways allow you to move in the directions indicated
 
 Enemies move on their movement-trails
 
-A production tool of entity coord gatherer has been left in, which helped with the development.
+The production tool 'Entity Builder" has been left in, which helped with the development.
