@@ -11,7 +11,8 @@ WASD or Arrow Keys to move, Left-Click to interact
 
 There are only 6 levels, with every 3-set focusing on a concept, being:
 
-1-3: Movement / 4-6: Length Growing/Shrinking
+[1-3: Movement 4-6:]
+[Length Growing/Shrinking]
 
 Extra Notes:
 ---
