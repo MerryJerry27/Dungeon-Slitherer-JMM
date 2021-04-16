@@ -14,7 +14,7 @@ There are only 6 levels, with every 3-set focusing on a concept, being:
 1-3: Movement / 4-6: Length Growing/Shrinking
 
 Extra Notes:
----
+
 A green snake means you are able to take damage, an orange snake means you just took damage and are invincible from it
 Default move speed is every 0.1 seconds, default time invincible after taking damage is 2 seconds 
 Apples grow you by 1, Bananas grow you by 3, Skeletons shrink you by 1
