@@ -31,6 +31,8 @@ A green snake means you are able to take damage, an orange snake means you just 
 
 Default move speed is every 0.1 seconds, default time invincible after taking damage is 2 seconds 
 
+Use the + Icon in levels to pause
+
 Apples grow you by 1, Bananas grow you by 3, Skeletons shrink you by 1
 
 One-Ways allow you to move in the directions indicated
